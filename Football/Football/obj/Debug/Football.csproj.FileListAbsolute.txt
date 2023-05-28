@@ -1,0 +1,7 @@
+C:\Users\Мими\source\repos\Football\Football\bin\Debug\Football.exe.config
+C:\Users\Мими\source\repos\Football\Football\bin\Debug\Football.exe
+C:\Users\Мими\source\repos\Football\Football\bin\Debug\Football.pdb
+C:\Users\Мими\source\repos\Football\Football\obj\Debug\Football.csproj.AssemblyReference.cache
+C:\Users\Мими\source\repos\Football\Football\obj\Debug\Football.csproj.CoreCompileInputs.cache
+C:\Users\Мими\source\repos\Football\Football\obj\Debug\Football.exe
+C:\Users\Мими\source\repos\Football\Football\obj\Debug\Football.pdb
